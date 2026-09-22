@@ -5,7 +5,11 @@
 }
 h1 {
     font-size: 24px;
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
 }
 h2 {
     font-size: 18px;
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
 }
